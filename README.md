@@ -1,5 +1,5 @@
-# (Analysis of the Loan Data from Prosper)
-## by (Stacey Samoe)
+# Analysis of the Loan Data from Prosper
+## by Stacey Samoe
 
 
 ## Dataset
